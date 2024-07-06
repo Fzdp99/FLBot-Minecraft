@@ -1,0 +1,9 @@
+{
+	"ip":"FLouwsOnlyOne.aternos.me",
+	"port": "30660",
+	"name": "FLBot",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
