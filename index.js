@@ -45,7 +45,7 @@ function task(i) {
       bot.chat("Selamat bergabung di server ini");
       first = false;
     } else {
-      bot.chat("Diperbarui oleh seseorang yang apa ?");
+      bot.chat("Enjoy your life :)");
       first = true;
     }
   }, 3600000 * i);
