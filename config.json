@@ -1,7 +1,7 @@
 {
 	"ip":"FLouwsOnlyOne.aternos.me",
 	"port": "30660",
-	"name": "FLBot",
+	"name": "Warga_Lokal",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
